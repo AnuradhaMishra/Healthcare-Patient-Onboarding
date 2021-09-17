@@ -42,3 +42,11 @@ Required Environments - Eclipse, PostgreSQL, Java 8, Angular 12
 
 > You can now navigate throughout the app according to the menu showing up on the UI.
 > You can't create multiple accounts with same Id.
+
+## CONTRIBUTORS
+
+> Anuradha Mishra
+> Jadala Pranhita
+> G Deekshit
+> Akshat Nagar
+> Jayant Chaurasiya
