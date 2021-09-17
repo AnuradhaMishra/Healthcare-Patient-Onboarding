@@ -45,8 +45,8 @@ Required Environments - Eclipse, PostgreSQL, Java 8, Angular 12
 
 ## CONTRIBUTORS
 
-> Anuradha Mishra
-> Jadala Pranhita
-> G Deekshit
-> Akshat Nagar
-> Jayant Chaurasiya
+> Anuradha Mishra |
+> Jadala Pranhita |
+> G Deekshit |
+> Akshat Nagar |
+> Jayant Chaurasiya 
